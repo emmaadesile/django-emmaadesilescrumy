@@ -2,6 +2,7 @@ This is a django project. To use this project, you would need Python 3.6
 or higher and django 2.0.4.
 
 ##Recommendation 
+
 For ease of use, it is recommended that you install a
 virtual environment, run
 
@@ -11,9 +12,10 @@ To create a new virtual environment, run ``mkvirtualenv envname`` and to
 activate the virtual environment, run ``workon envname``
 
 ##Get Started 
+
 To install dependencies, run
 
-``pip install``
+``python setup.py install``
 
 To start the server, run
 
